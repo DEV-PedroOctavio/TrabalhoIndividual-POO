@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☕ POO - Java
+# ☕ POO - Java ☕
 
 Exercícios da matéria de **Programação Orientada a Objetos - Serratec 2026 **.
 
