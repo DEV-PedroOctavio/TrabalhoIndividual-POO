@@ -1,21 +1,20 @@
 <div align="center">
-
-# ☕ POO - Java ☕
-
-Exercícios da matéria de **Programação Orientada a Objetos - Serratec 2026 **.
-
+☕ POO - Java
+Exercícios práticos da matéria de Programação Orientada a Objetos,
+aplicando os principais pilares do paradigma OO com Java.
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
----
+🧠 O que aprendi
+Durante os exercícios, coloquei em prática os seguintes conceitos da O.O:
+<div align="center">
+🔷 Abstração  |  🔒 Encapsulamento  |  🧬 Herança  |  🎭 Polimorfismo  |  📋 Interface  |  🔗 Relacionamentos  |  ⚠️ Exceções
+</div>
 
-## 📂 Exercícios
-
-- 🏧 **Exercicio1** — Caixa eletrônico procedural
-- 🏦 **Exercicio2** — Conta bancária com encapsulamento
-- 🛒 **Exercicio3** — Sistema de pedidos (composição com ArrayList)
-- 🚗 **Exercicio4** — Sistema de veículos (herança, interfaces, sealed class)
-
-## 🛠️ Tecnologias
-
-- Java 17+
-- IntelliJ IDEA
+Feito com ☕ por
+👨‍💻 Pedro Octávio Maciel Gonçalves
+</div>
